@@ -26,7 +26,7 @@ Recolectar y tratar los datos para crear un modelo de ML de sistema de recomenda
 
 ## ETL
 
-El proceso de ETL consistió .... tratar los datos contenidos en los datasets de 4 cvs de plataformas y  8 csv de ratings. 
+El proceso de ETL consistió en tratar los datos contenidos en los datasets de 4 cvs de plataformas y  8 csv de ratings. 
 
 Los querimientos para el tratamiento fueron los siguientes:
 
